@@ -35,6 +35,8 @@ h3{
     color:rgb(1, 41, 1);
 }
 img{
-   margin-left: 90%; margin-top: -5%;
-   border-style: hidden; border-radius: 50%;
+   margin-left: 85%; margin-top: -5%;
+   border-style: solid; border-radius: 50%;
+   opacity: 0.4;
+   border-width: 0.5cm;
 }
