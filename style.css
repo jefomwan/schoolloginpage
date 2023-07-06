@@ -1,18 +1,19 @@
 #formplate{
     text-align: center;
-    background-color: rgb(74, 134, 74);
+    background-color: rgb(106, 202, 106);
     border: double green ;
-    margin-bottom: 50%;
+    margin-bottom: 30%;
     margin-top: 10%;
     margin-left: 30%;
     margin-right: 30%;
     border-radius: 0.5cm;
 }
 html{
-    background-color: azure;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(51, 228, 80));
 }
 label{
     color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #form{
     padding-bottom: 20%;
@@ -24,4 +25,11 @@ h1{
     color: green;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 10%;
+}
+#header{
+    border: solid rgb(0, 236, 91) ;
+    background-color:rgb(110, 236, 148) ;
+}
+h3{
+    color:rgb(1, 41, 1);
 }
