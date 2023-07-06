@@ -33,3 +33,7 @@ h1{
 h3{
     color:rgb(1, 41, 1);
 }
+img{
+   margin-left: 90%; margin-top: -5%;
+   border-style: hidden; border-radius: 50%;
+}
